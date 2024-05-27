@@ -1,0 +1,6 @@
+*{height: 100%
+}
+h1 {
+	font-family: arial, serif;
+	background-color: linear-gradient (90deg, yellow, red);
+}

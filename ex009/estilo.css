@@ -1,0 +1,36 @@
+body {
+	background-color: #ab34eb;
+}
+
+h1 {
+	color: blue;
+	font-family: unset;
+	font-size: 40px;
+}
+
+/**.video {
+	background-image: 100px;
+	display: inline-block;
+	i
+}
+*/
+
+.seta {
+	margin-left: 600px;
+}
+
+.playlist {
+	font-family: verdana;
+	color: #ddd;
+	margin-left: 400px;
+}
+
+.reproducao {
+	margin-left: 400px;
+}
+
+.titulo{
+	color: black;
+	text-align: center;
+	font-family: tahoma serif;	
+}
