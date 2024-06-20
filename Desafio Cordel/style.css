@@ -1,0 +1,56 @@
+@font-face {
+  font-family: Passion One;
+  src: url(PassionOne-Regular.ttf) format('truetype');}
+
+@font-face {
+  font-family: Sriracha;
+  src: url(Sriracha-Regular.ttf) format('truetype');
+}
+
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+header{
+  height: 200px;
+  background-color: black;
+  
+}
+#cordel{
+  font-family: Passion One;
+  color: White;
+  padding-top: 50px;
+  font-size: 70px;
+  letter-spacing: 2px;
+}
+#milton{
+  color: white;
+}
+
+.juntos{
+  text-align: center;
+  text-transform:initial
+  
+}
+p{
+  font-family: Sriracha;
+  height: 500px;
+  width: 300px;
+  border: 2px solid black;
+  font-size: 22px;
+  margin: 20px 10px;
+}
+
+.joana{
+  background-attachment: fixed;
+  background-image: url(joaninha.jpg);
+  background-repeat: no-repeat;
+ 
+
+}
+ 
+.joana p{
+  margin: 20px 10px;
+  background-color: #394f24;
+}
