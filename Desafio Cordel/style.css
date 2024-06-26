@@ -1,3 +1,4 @@
+@charset "utf-8";
 @font-face {
   font-family: Passion One;
   src: url(PassionOne-Regular.ttf) format('truetype');}
@@ -42,7 +43,7 @@ p{
   margin: 20px 10px;
 }
 
-.joana{
+.imagem{
   background-attachment: fixed;
   background-image: url(joaninha.jpg);
   background-repeat: no-repeat;
